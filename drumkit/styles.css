@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(22, 17, 17);
+    background-image: url("body.jpg");
+
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.container {
+    width: 600px;
+    height: 300px;
+    border: solid white 2px;
+    margin-top: 100px;
+    background-color: rgb(101, 74, 74);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(207, 214, 219);
+    position: absolute;
+    margin-top: 520px;
+
+}
+
+#kick {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+    position: relative;
+
+}
+
+#snare {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+
+}
+
+#hat {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+
+}
+
+#hihat {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+
+}
+
+
+#cymbal {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+    color: rgb(207, 214, 219);
+
+}
+
+#tom {
+    width: 80px;
+    height: 80px;
+    border: solid;
+    margin-right: 10px;
+    color: rgb(207, 214, 219);
+    position: relative;
+    
+
+}
+
+.img-icon{
+    width: 80px;
+    height: 80px;
+
+}
+
+.maintext {
+    color: azure; 
+    margin-bottom: 150px;
+    margin-left: 5px;
+    
+    position: absolute;
+    
+    
+}
